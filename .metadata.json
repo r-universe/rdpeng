@@ -1,13 +1,5 @@
 [
   {
-    "package": "filehash",
-    "oncran": true
-  },
-  {
-    "package": "filehashSQLite",
-    "oncran": true
-  },
-  {
     "package": "gpclib",
     "oncran": true
   },
