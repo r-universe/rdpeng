@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "filehash"]
+	path = filehash
+	url = https://github.com/rdpeng/filehash
+	shallow = true
+	registered = true
+[submodule "filehashSQLite"]
+	path = filehashSQLite
+	url = https://github.com/rdpeng/filehashsqlite
+	shallow = true
+	registered = true
 [submodule "gpclib"]
 	path = gpclib
 	url = https://github.com/rdpeng/gpclib
