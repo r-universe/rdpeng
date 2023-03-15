@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
-    "package": "filehashSQLite",
-    "oncran": true
-  },
-  {
     "package": "gpclib",
     "oncran": true
   },
   {
     "package": "mvtsplot",
+    "oncran": true
+  },
+  {
+    "package": "filehashSQLite",
     "oncran": true
   },
   {

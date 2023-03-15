@@ -8,11 +8,6 @@
 	url = https://github.com/rdpeng/filehash
 	shallow = true
 	registered = true
-[submodule "filehashSQLite"]
-	path = filehashSQLite
-	url = https://github.com/rdpeng/filehashsqlite
-	shallow = true
-	registered = true
 [submodule "gpclib"]
 	path = gpclib
 	url = https://github.com/rdpeng/gpclib
@@ -21,6 +16,11 @@
 [submodule "mvtsplot"]
 	path = mvtsplot
 	url = https://github.com/rdpeng/mvtsplot
+	shallow = true
+	registered = true
+[submodule "filehashSQLite"]
+	path = filehashSQLite
+	url = https://github.com/rdpeng/filehashsqlite
 	shallow = true
 	registered = true
 [submodule "simpleboot"]
